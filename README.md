@@ -33,7 +33,7 @@
 <br>
 <img width="1440" height="777" alt="Screenshot 2026-05-04 alle 16 07 13" src="https://github.com/user-attachments/assets/d8e3db91-80d1-4946-baba-1d3216750d85" />
 <br>
-<img width="1426" height="778" alt="Screenshot 2026-09-09 alle 19 22 48" src="https://github.com/user-attachments/assets/97c4a011-577a-445f-83c9-c96f38e0bd34" />
+<img width="1425" height="776" alt="Screenshot 2026-09-09 alle 19 28 54" src="https://github.com/user-attachments/assets/6483dc1b-9635-4a2c-a7ad-db48fa14afd7" />
 <br>
 
 <h3>⚙️ Installation:</h3>
