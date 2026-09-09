@@ -29,11 +29,11 @@
 <br>
 <img width="1440" height="775" alt="Screenshot 2026-05-04 alle 16 06 17" src="https://github.com/user-attachments/assets/883a5c5e-e267-447c-9b26-a81111f1d59a" />
 <br>
-<img width="1440" height="777" alt="Screenshot 2026-05-04 alle 16 06 59" src="https://github.com/user-attachments/assets/86c12b80-b01a-416e-a0c0-92807f5ffa89" />
+<img width="1426" height="778" alt="Screenshot 2026-09-09 alle 19 22 48" src="https://github.com/user-attachments/assets/ca96412c-b1c7-48e3-9a65-25f0082b374b" />
 <br>
 <img width="1440" height="777" alt="Screenshot 2026-05-04 alle 16 07 13" src="https://github.com/user-attachments/assets/d8e3db91-80d1-4946-baba-1d3216750d85" />
 <br>
-<img width="1440" height="778" alt="Screenshot 2026-05-04 alle 16 07 28" src="https://github.com/user-attachments/assets/2aec8d77-3d25-47ac-bc18-cd33eb4539e1" />
+<img width="1426" height="778" alt="Screenshot 2026-09-09 alle 19 22 48" src="https://github.com/user-attachments/assets/97c4a011-577a-445f-83c9-c96f38e0bd34" />
 <br>
 
 <h3>⚙️ Installation:</h3>
