@@ -1,4 +1,4 @@
-import CVeng from "../assets/Prayer_Onaiwu_CV_Junior_Web_Developer.pdf"
+import CVeng from "../assets/Prayer_Onaiwu_Junior_Web_Developer.pdf"
 
 
 function Banner() {
